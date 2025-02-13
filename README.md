@@ -35,4 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-shahriar04&show_icons=true&locale=en" alt="ahmed-shahriar04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-shahriar04&" alt="ahmed-shahriar04" /></p>
+To See My All Projects, Click this link:
+
+https://github.com/ahmed-shahriar04?tab=repositories
